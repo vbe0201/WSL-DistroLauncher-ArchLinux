@@ -147,7 +147,7 @@
     </Image>
   </ItemGroup>
   <ItemGroup>
-    <AppxManifest Include="MyDistro.appxmanifest" />
+    <AppxManifest Include="ArchLinux.appxmanifest" />
   </ItemGroup>
   <ItemGroup>
     <None Include="..\ARM64\install.tar.gz" />
